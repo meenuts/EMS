@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/controllers/Welcome.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/config/routes.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/config/config.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/models/Model_import_employee.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/system/core/Model.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/controllers/Emp_upload.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/helpers/general_helper.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/system/helpers/form_helper.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/config/autoload.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/.htaccess</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/config/database.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/views/upload.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/libraries/Csvimport.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/views/view_employee.php</file>
+            <file>file:/home/campus7/public_html/Employee_management_system/application/controllers/Employee.php</file>
+        </group>
+    </open-files>
+</project-private>
